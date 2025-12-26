@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project thực chiến: Code ứng dụng Chat Room nhiều người dùng</title>
+      <link>hhtp://localhost:1313/posts/8-chat-room-application/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/8-chat-room-application/</guid>
+      <description>Tổng hợp toàn bộ kiến thức Socket và Thread để xây dựng một phòng chat nơi mọi người có thể nói chuyện với nhau (Broadcast).</description>
+    </item>
+  </channel>
+</rss>

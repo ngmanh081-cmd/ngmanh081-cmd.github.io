@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TCP on IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/tags/tcp/</link>
+    <description>Recent content in TCP on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nhập môn Lập trình mạng: Xây dựng TCP Echo Server với Java</title>
+      <link>hhtp://localhost:1313/posts/1-java-socket-tcp-basic/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/1-java-socket-tcp-basic/</guid>
+      <description>Hướng dẫn chi tiết từ A-Z cách hoạt động của mô hình Client-Server, khái niệm Handshake và code hoàn chỉnh cho ứng dụng Echo.</description>
+    </item>
+  </channel>
+</rss>

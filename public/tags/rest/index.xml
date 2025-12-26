@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>REST on IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/tags/rest/</link>
+    <description>Recent content in REST on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kiến trúc REST API: Những nguyên tắc cốt lõi cho Backend Developer</title>
+      <link>hhtp://localhost:1313/posts/10-rest-api-structure/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/10-rest-api-structure/</guid>
+      <description>API không chỉ là URL. Tìm hiểu về Stateless, Resource-based, HTTP Verbs và cách thiết kế một API chuẩn mực mà ai cũng muốn dùng.</description>
+    </item>
+  </channel>
+</rss>

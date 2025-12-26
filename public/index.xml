@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/</link>
+    <description>Recent content on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nhập môn Lập trình mạng: Xây dựng TCP Echo Server với Java</title>
+      <link>hhtp://localhost:1313/posts/1-java-socket-tcp-basic/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/1-java-socket-tcp-basic/</guid>
+      <description>Hướng dẫn chi tiết từ A-Z cách hoạt động của mô hình Client-Server, khái niệm Handshake và code hoàn chỉnh cho ứng dụng Echo.</description>
+    </item>
+    <item>
+      <title>Tối ưu hóa Server: Xử lý hàng ngàn kết nối với Multi-threading</title>
+      <link>hhtp://localhost:1313/posts/2-multi-thread-socket-server/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/2-multi-thread-socket-server/</guid>
+      <description>Tại sao Server đơn luồng lại chậm? Hướng dẫn cách sử dụng Thread trong Java để phục vụ nhiều Client cùng lúc mà không bị nghẽn.</description>
+    </item>
+    <item>
+      <title>Java NIO: Bí mật đằng sau các High-Performance Server</title>
+      <link>hhtp://localhost:1313/posts/3-java-nio-non-blocking/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/3-java-nio-non-blocking/</guid>
+      <description>Phân tích sự khác biệt giữa Blocking IO và Non-Blocking IO. Tại sao Node.js hay Netty lại nhanh đến vậy?</description>
+    </item>
+    <item>
+      <title>Liên hệ</title>
+      <link>hhtp://localhost:1313/contact/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/contact/</guid>
+      <description>&lt;style&gt;
+     
+    .contact-container { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px; margin-bottom: 50px; }
+    
+     
+    .contact-card { background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 20px; width: 280px; text-align: center; transition: all 0.3s ease; text-decoration: none !important; display: flex; flex-direction: column; align-items: center; }
+    .contact-card:hover { transform: translateY(-5px); background: rgba(100, 255, 218, 0.1); border-color: #64ffda; box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
+    
+     
+    .contact-icon { width: 48px; height: 48px; margin-bottom: 15px; fill: #a5a5a5; transition: fill 0.3s; }
+    .contact-card:hover .contact-icon { fill: #64ffda; }
+    
+     
+    .contact-title { font-weight: bold; font-size: 1.1em; color: #e0e0e0; margin-bottom: 5px; }
+    .contact-detail { font-size: 0.9em; color: #888; word-break: break-all; }
+    .intro-text { text-align: center; max-width: 700px; margin: 0 auto 40px auto; font-size: 1.1em; line-height: 1.6; color: #ccc; }
+
+     
+    .back-home-btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 30px;
+        border: 1px solid #64ffda;
+        color: #64ffda;
+        border-radius: 4px;
+        text-decoration: none !important;
+        font-family: &#39;Consolas&#39;, monospace;  
+        transition: all 0.3s;
+        font-size: 1em;
+    }
+    .back-home-btn:hover {
+        background: rgba(100, 255, 218, 0.1);
+        box-shadow: 0 0 15px rgba(100, 255, 218, 0.3);
+        transform: translateY(-2px);
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;intro-text&#34;&gt;
+    &lt;p&gt;👋 &lt;strong&gt;Xin chào!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TCP vs UDP: Khi nào nên đánh đổi sự tin cậy để lấy tốc độ?</title>
+      <link>hhtp://localhost:1313/posts/4-udp-vs-tcp-comparison/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/4-udp-vs-tcp-comparison/</guid>
+      <description>Tại sao xem Youtube (Streaming) lại dùng UDP, còn tải file lại dùng TCP? Phân tích sâu về ưu nhược điểm của hai giao thức vận chuyển phổ biến nhất Internet.</description>
+    </item>
+    <item>
+      <title>Tạm biệt HttpURLConnection: Hướng dẫn sử dụng Java 11 HttpClient</title>
+      <link>hhtp://localhost:1313/posts/5-java-http-client-request/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/5-java-http-client-request/</guid>
+      <description>Trước Java 11, gọi API trong Java là một cực hình. Giờ đây, chúng ta đã có một API hiện đại, hỗ trợ HTTP/2 và Asynchronous xịn xò.</description>
+    </item>
+    <item>
+      <title>Bảo mật ứng dụng Chat: Nâng cấp Socket thường thành SSLSocket</title>
+      <link>hhtp://localhost:1313/posts/6-ssl-tls-secure-socket/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/6-ssl-tls-secure-socket/</guid>
+      <description>Dữ liệu truyền qua mạng rất dễ bị nghe lén. Hướng dẫn chi tiết cách mã hóa đường truyền bằng SSL/TLS trong Java.</description>
+    </item>
+    <item>
+      <title>Debug như một chuyên gia: Phân tích gói tin với Wireshark</title>
+      <link>hhtp://localhost:1313/posts/7-wireshark-packet-analysis/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/7-wireshark-packet-analysis/</guid>
+      <description>Lập trình viên mạng mà không biết dùng Wireshark thì giống như bác sĩ mà không có máy chụp X-quang. Hướng dẫn bắt và đọc gói tin TCP/HTTP.</description>
+    </item>
+    <item>
+      <title>Project thực chiến: Code ứng dụng Chat Room nhiều người dùng</title>
+      <link>hhtp://localhost:1313/posts/8-chat-room-application/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/8-chat-room-application/</guid>
+      <description>Tổng hợp toàn bộ kiến thức Socket và Thread để xây dựng một phòng chat nơi mọi người có thể nói chuyện với nhau (Broadcast).</description>
+    </item>
+    <item>
+      <title>WebSocket: Công nghệ đằng sau các ứng dụng Real-time</title>
+      <link>hhtp://localhost:1313/posts/9-websocket-realtime-app/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/9-websocket-realtime-app/</guid>
+      <description>Tại sao HTTP không thể làm ứng dụng chat thời gian thực tốt? So sánh sự khác biệt giữa HTTP Polling và kết nối WebSocket hai chiều (Full-duplex).</description>
+    </item>
+    <item>
+      <title>Kiến trúc REST API: Những nguyên tắc cốt lõi cho Backend Developer</title>
+      <link>hhtp://localhost:1313/posts/10-rest-api-structure/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/10-rest-api-structure/</guid>
+      <description>API không chỉ là URL. Tìm hiểu về Stateless, Resource-based, HTTP Verbs và cách thiết kế một API chuẩn mực mà ai cũng muốn dùng.</description>
+    </item>
+    <item>
+      <title>Về Tôi - The Game Architect</title>
+      <link>hhtp://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/about/</guid>
+      <description>profile</description>
+    </item>
+  </channel>
+</rss>

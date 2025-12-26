@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Protocol on IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/tags/protocol/</link>
+    <description>Recent content in Protocol on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCP vs UDP: Khi nào nên đánh đổi sự tin cậy để lấy tốc độ?</title>
+      <link>hhtp://localhost:1313/posts/4-udp-vs-tcp-comparison/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/4-udp-vs-tcp-comparison/</guid>
+      <description>Tại sao xem Youtube (Streaming) lại dùng UDP, còn tải file lại dùng TCP? Phân tích sâu về ưu nhược điểm của hai giao thức vận chuyển phổ biến nhất Internet.</description>
+    </item>
+    <item>
+      <title>WebSocket: Công nghệ đằng sau các ứng dụng Real-time</title>
+      <link>hhtp://localhost:1313/posts/9-websocket-realtime-app/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/9-websocket-realtime-app/</guid>
+      <description>Tại sao HTTP không thể làm ứng dụng chat thời gian thực tốt? So sánh sự khác biệt giữa HTTP Polling và kết nối WebSocket hai chiều (Full-duplex).</description>
+    </item>
+  </channel>
+</rss>

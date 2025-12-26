@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java Security on IndieGameDev.HuyManh</title>
+    <link>hhtp://localhost:1313/tags/java-security/</link>
+    <description>Recent content in Java Security on IndieGameDev.HuyManh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="hhtp://localhost:1313/tags/java-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bảo mật ứng dụng Chat: Nâng cấp Socket thường thành SSLSocket</title>
+      <link>hhtp://localhost:1313/posts/6-ssl-tls-secure-socket/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>hhtp://localhost:1313/posts/6-ssl-tls-secure-socket/</guid>
+      <description>Dữ liệu truyền qua mạng rất dễ bị nghe lén. Hướng dẫn chi tiết cách mã hóa đường truyền bằng SSL/TLS trong Java.</description>
+    </item>
+  </channel>
+</rss>
